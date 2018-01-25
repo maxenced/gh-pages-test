@@ -2,6 +2,7 @@
 title: "LabyREnth"
 layout: category
 ---
+# LabyREnth
  * [*binary* : level2](/gh-pages-test/CTF/LabyREnth/2017/binary/level2)
  * [*docs* : docs1](/gh-pages-test/CTF/LabyREnth/2017/docs/docs1)
  * [*docs* : docs2](/gh-pages-test/CTF/LabyREnth/2017/docs/docs2)
